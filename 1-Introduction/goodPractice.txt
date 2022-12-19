@@ -1,4 +1,5 @@
 1. Every function should be preceded by a comment describing the function's purpose.
+<<<<<<< HEAD
 
 2. Add a comment right to the line containing the right brace, }, that closes every function, including main.
 
@@ -11,3 +12,5 @@ This indentation emphasises the functional structure of the programs and helps m
 
 6. The first letter of an identifier used as simple variable name should be a lowercase letter.
 Later in the text we'll assign special significance to identifier that begin with a capital letter and to identifier that use all capital letter.
+=======
+>>>>>>> 98e99d15859d30b1876bd9fdc18288db2463c612
