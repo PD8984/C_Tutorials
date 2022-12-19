@@ -1,0 +1,13 @@
+1. Every function should be preceded by a comment describing the function's purpose.
+
+2. Add a comment right to the line containing the right brace, }, that closes every function, including main.
+
+3. Indent the entire body of each function one level of indentation within the braces that define tha body of the function,
+This indentation emphasises the functional structure of the programs and helps make them easier to read.
+
+4. Set a convetion for the indentation size you prefer and then uniformly apply that convetion.
+
+5. Choosing meaningful variable names helps to make a program self-documenting---that is, fewer comments are needed.
+
+6. The first letter of an identifier used as simple variable name should be a lowercase letter.
+Later in the text we'll assign special significance to identifier that begin with a capital letter and to identifier that use all capital letter.

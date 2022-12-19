@@ -1,0 +1,5 @@
+1. Mistyping the name of output function printf as print in a program.
+
+2. Using capital letter where a lowercase letter should be used (for example typing Main instead of main).
+
+

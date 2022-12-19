@@ -1,0 +1,1 @@
+1. Avoid starting identifiers with the underscore characters (_) to prevent conflicts with compiler-generated identifiers and standard library identifiers.
