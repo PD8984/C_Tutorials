@@ -1,0 +1,1 @@
+1. Every function should be preceded by a comment describing the function's purpose.
