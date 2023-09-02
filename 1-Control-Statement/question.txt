@@ -1,0 +1,33 @@
+Easy:
+
+    Write a C program that takes two numbers as input and prints their sum.
+    Create a program that calculates and prints the factorial of a given number using a loop.
+    Write a C program that checks if a number is even or odd and prints the result.
+    Implement a program that prints the first 10 natural numbers using a loop.
+    Create a program that checks if a year is a leap year and displays the result.
+    Write a C program that calculates the sum of all even numbers between 1 and 100.
+    Implement a simple calculator program that can perform addition, subtraction, multiplication, and division operations based on user input.
+    Develop a program that prints a multiplication table for a given number.
+
+Medium:
+
+    Write a C program to find the largest and smallest numbers in an array of integers.
+    Implement a program that calculates the factorial of a number using recursion.
+    Create a C program that converts a decimal number to binary representation.
+    Write a program that checks if a given string is a palindrome.
+    Develop a C program that generates a Fibonacci sequence up to a specified number of terms.
+    Implement a basic calculator program that can handle complex expressions with parentheses.
+    Write a C program that sorts an array of integers using the bubble sort algorithm.
+
+Hard:
+
+    Create a program that simulates a simple game where the user needs to guess a randomly generated number.
+    Develop a C program that reads a CSV file, processes the data, and performs calculations based on the data.
+    Implement a program that simulates a bank account system with features like deposit, withdrawal, and balance checking.
+    Write a C program that parses and evaluates mathematical expressions using a stack.
+    Create a program that reads data from a text file, analyzes the text, and generates a word frequency count.
+    Develop a simple text-based adventure game where the user can make choices to progress through a story.
+    Write a program that simulates a basic command-line calculator with support for functions like square root, logarithm, and exponentiation.
+    Implement a program that generates a Pascal's Triangle up to a specified number of rows.
+    Create a C program that implements a basic encryption algorithm for text input.
+    Develop a program that simulates a tic-tac-toe game for two players.
